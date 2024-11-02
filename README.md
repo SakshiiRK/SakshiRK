@@ -2,6 +2,7 @@
   <!-- Masthead Image -->
   <img alt="Masthead" width="100%" src="https://t3.ftcdn.net/jpg/02/96/61/94/360_F_296619471_iEGweTy9VsokHtbCJsVmyez0d2rocmmA.jpg?text=Welcome+to+My+GitHub+Profile">
 </div>
+[![An image of @sakshiirk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sakshiirk)](https://holopin.io/@sakshiirk)
 
 <h1 align="center">Hi 👋, I'm Sakshi</h1>
 <h3 align="center">Passionate About Tech from India</h3>
